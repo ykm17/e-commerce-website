@@ -1,0 +1,55 @@
+pid
+name
+desc
+type : household
+availibility
+
+
+specification(optional)
+rating 1-5(optional)
+
+
+kart
+
+
+
+kid id pid date qty
+
+
+order_placed
+
+oid id pid cost qty 
+
+
+
+index.php ->    single display ->   cart  ->  checkout  ->  payment done.
+
+19/04/19
+
+DONE______________________
+
+---------REVIEWS AND RATING---------
+
+pid id name comment star
+
+CONTACT US -> MAP
+           -> Content below------------------------------------remaining
+
+Personal INFO DISPLAY
+
+REMAINING---------------
+
+PAYMENT GATEWAY
+
+
+add no product text
+
+
+visibility of logout button
+
+NEWS LETTER
+
+TRACKING using order id
+
+
+
