@@ -18,3 +18,41 @@ BackEnd:<br>
 2.PHP (Server side scripting).<br>
 3.MYSQL (Database).<br>
 
+Screenshots:
+
+<b>1. Home Page</b>
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
+
+<b>2. Custom Search</b>
+![](images/customsearch.png)
+
+<b>3.Login</b>
+![](images/login.png)
+
+<b>4. Cart</b>
+![](images/cart.png)
+
+<b>5. Payment</b>
+![](images/payment.png)
+
+<b>6. Order Confirmation</b>
+![](images/order1.png)
+
+![](images/order2.png)
+
+<b>7. Past Order</b>
+![](images/pastorder.png)
+
+<b>8. Track Order</b>
+![](images/trackorder.png)
+
+<b>9. All products</b>
+![](images/products.png)
+
+<b>10.Contact Us</b>
+![](images/contactus.png)
+
